@@ -1,0 +1,9 @@
+#!/bin/bash
+_EOF_
+echo "alx"
+cd ..
+root/
+root@07ee68c9843a:/alx-pre_course/0x01-git/bash# cat> alx <<_EOF_>
+
+
+
